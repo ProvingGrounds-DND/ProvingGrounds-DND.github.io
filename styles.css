@@ -18,7 +18,7 @@ h1 {
 #hero p {
     font-size: 46pt;
     color: goldenrod;
-    
+    text-align: center;
     margin: auto;
     text-transform: -50;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
