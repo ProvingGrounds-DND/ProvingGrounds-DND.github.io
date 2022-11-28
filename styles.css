@@ -20,7 +20,6 @@ h1 {
     color: goldenrod;
     text-align: center;
     margin: auto;
-    text-transform: -50;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     -webkit-animation: glow 1s ease-in-out infinite alternate;
     -moz-animation: glow 1s ease-in-out infinite alternate;
